@@ -45,7 +45,7 @@ public class Ex03 {
 				break;
 			}
 		
-		ArrayList<Person> pList=new ArrayList<Person>();
+		//ArrayList<Person> pList=new ArrayList<Person>();
 		
 		Person p01=new Person("이정재", "010-2222-2222","(주)열심히");
 		Person p02=new Person("정우성", "010-0000-23451","잘하자(주)");
@@ -80,7 +80,7 @@ public class Ex03 {
 		 전화: 010-
 		 회사: (주)열심히
 		 */
-		
+		}
 		
 		
 	}
